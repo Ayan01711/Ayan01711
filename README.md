@@ -4,7 +4,7 @@
 - 💞️ I’m looking for internships which can provides hands on experience in industry level projects and it also helps me to grab the practical knowledge as much as possible ...
 - 📫 reach me :
 - Mail : pathanayan01711@gmail.com
-- LinkedIn : https://www.linkedin.com/in/ayan-pathan-761129218/
+- LinkedIn : https://www.linkedin.com/in/ayan01711/
 - 
 <!---
 Ayan01711/Ayan01711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
